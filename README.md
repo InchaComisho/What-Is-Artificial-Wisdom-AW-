@@ -391,6 +391,9 @@ https://note.com/inchacomusho/n/n8b5fca6478b4
 What Is Artificial Wisdom (AW)?  
 https://note.com/inchacomusho/n/nc842a5b7a176
 
+What Is Artificial Wisdom (AW)?  
+https://github.com/InchaComisho/What-Is-Artificial-Wisdom-AW-
+
 Artificial Wisdom vs Artificial Sapience  
 https://github.com/InchaComisho/Artificial-Wisdom-vs-Artificial-Sapience
 
@@ -474,7 +477,7 @@ https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
 自然補完科学  
 https://note.com/inchacomusho/n/nf9eabe973e38
 
-自然補完科学 ― 学問体系の全体構造    
+自然補完科学 ― 学問体系の全体構造  
 https://note.com/inchacomusho/n/ndaa0456a5632
 
 ■温暖化の因果関係
@@ -514,3 +517,4 @@ https://note.com/inchacomusho/n/n26ce8a1f7632
 
 新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
 https://note.com/inchacomusho/n/n499530f6a055
+
