@@ -1,5 +1,7 @@
 # What Is Artificial Wisdom (AW)?
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
 
 ## A New AI Value Framework for the AGI/ASI Era Based on Natural Law and the Six Principles

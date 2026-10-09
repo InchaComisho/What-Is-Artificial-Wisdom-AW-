@@ -1,5 +1,7 @@
 # 人工叡智（Artificial Wisdom: AW）とは何か
 
+[English Version](README.md)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
 
 ## AGI・ASI時代のための自然法則ベース価値フレームワーク
